@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+notes.secure
+notes.secure.bak
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
